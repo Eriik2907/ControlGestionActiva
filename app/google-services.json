@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "637833147444",
+    "firebase_url": "https://gestion-de-bienes-default-rtdb.firebaseio.com",
+    "project_id": "gestion-de-bienes",
+    "storage_bucket": "gestion-de-bienes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637833147444:android:ff0a2d94872135c5b88661",
+        "android_client_info": {
+          "package_name": "com.example.interfaz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFvrycsTQ67cPvqhyh88luCHpCFtWK5s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

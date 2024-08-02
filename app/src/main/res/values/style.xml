@@ -1,0 +1,9 @@
+<resources>
+    <style name="SpinnerStyle" parent="Widget.AppCompat.Spinner">
+        <item name="android:background">@drawable/colormat</item> <!-- Fondo personalizado -->
+        <item name="android:padding">8dp</item> <!-- Espaciado interno -->
+        <item name="android:popupBackground">@drawable/colormat</item> <!-- Fondo del dropdown -->
+        <item name="android:dropDownVerticalOffset">40dp</item> <!-- Desplazamiento vertical del dropdown -->
+        <!-- Otros atributos según necesidades -->
+    </style>
+</resources>

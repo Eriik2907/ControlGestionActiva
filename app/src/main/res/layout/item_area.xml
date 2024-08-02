@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Descripción"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewReference"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Referencia"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewNumberOfAulas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Número de Aulas"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewCapacity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Capacidad"
+        android:textStyle="bold" />
+</LinearLayout>
